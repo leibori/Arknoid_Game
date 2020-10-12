@@ -1,5 +1,5 @@
-# 315383133
-# shimon cohen
+# 205793896
+# ori leibovitz
 
 compile: bin
 	javac -d bin -cp biuoop-1.4.jar src/*.java
