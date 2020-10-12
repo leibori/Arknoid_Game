@@ -2,8 +2,8 @@ import java.awt.Color;
 import java.util.Random;
 
 /**
- * a night background.
- * the dark is an amazing place.
+ * a dark background.
+ * 
  */
 public class NightBackground extends Background {
     private Color backgroundColor;
